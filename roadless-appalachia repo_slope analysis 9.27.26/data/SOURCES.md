@@ -1,0 +1,6 @@
+# Data sources (all public, retrieved 2026-09-25)
+- USFS EDW: Inventoried Roadless Areas 2001; Administrative Forest Boundaries; Basic Ownership; Road Core; FACTS Timber Harvest; Forests to Faucets 2.0 (https://data.fs.usda.gov/geodata/edw/)
+- USGS 3DEP 1/3 arc-second DEM (The National Map)
+- USGS TNM transportation, state shapefiles (TIGER-derived)
+- USGS ScienceBase: landslide susceptibility n10 (item 65ccea5bd34ef4b119cb3bac); Hurricane Helene landslide inventory (item 674634a1d34e6d1dac3abddc)
+- Agency documents (Regulations.gov, docket FS-2025-0001): Draft EIS Vol. I (FS-2025-0001-224064), Economic Analysis (FS-2025-0001-224067)
